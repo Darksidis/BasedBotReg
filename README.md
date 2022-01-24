@@ -1,6 +1,6 @@
 # BasedBotReg
 
-Description
+About
 -------
 
 This program is intended for re-registration of members of a political organization.
