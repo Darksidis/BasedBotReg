@@ -1,0 +1,1 @@
+worker: python LprBasedReg.py $PORT 
